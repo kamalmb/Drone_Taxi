@@ -1,0 +1,2 @@
+rootProject.name='Drone Taxi'
+include ':app'
